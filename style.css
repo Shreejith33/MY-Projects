@@ -1,0 +1,54 @@
+#Apps {
+    background-color: green;
+}
+
+#GAMES {
+    background-color: blue;
+}
+
+#Chatbot {
+    background-color: green;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: Impact;
+}
+
+h2 {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 500;
+    height: 500;
+}
+
+#myCarousel2 {
+    background-color: red;
+}
+
+#myCarousel {
+    background-color: yellow;
+}
+
+#myCarousel img {
+    height: 500px;
+    margin-top: 30px;
+}
+
+.carousel-inner h3 {
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+}
